@@ -1,0 +1,1 @@
+# Tend-ncias-do-mercado-de-TI-em-2025-
