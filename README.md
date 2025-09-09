@@ -58,8 +58,8 @@ Este repositório foi criado para **compartilhar conhecimento e tendências** do
 
 ### 🔗 Contato
 Caso tenha interesse em trocar ideias ou contribuir:
-- [LinkedIn](https://www.linkedin.com)  
-- [GitHub](https://github.com)
+- [LinkedIn](www.linkedin.com/in/kelryn-joana-14a5a0259)  
+- [GitHub]([https://github.com](https://github.com/KelrynJSI))
 
 ---
 
