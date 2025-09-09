@@ -42,7 +42,7 @@ Este repositório contém o relatório **"Tendências do Mercado de Trabalho em 
 
 ## 📄 Acesse o Relatório Completo
 
-📥 [Clique aqui para baixar o PDF](./Relatorio_Tendencias_TI_2025.pdf)
+📥 [Clique em "vagas_linkedin_base (1) (2)" para baixar o PDF]
 
 O documento contém:
 - Gráficos interativos e tabelas
